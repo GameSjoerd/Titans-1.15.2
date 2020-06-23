@@ -1,0 +1,8 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.15
+Packs:
+	more bricks crafting v1.0.0
+	12 trapdoors v1.0.0
+	4 bark blocks v1.0.0
+	universal dyeing v1.2.0
+	back to blocks v1.1.0

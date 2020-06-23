@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/",
+        "G"
+    ],
+    "key": {
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "G": {
+            "item": "minecraft:granite"
+        }
+    },
+    "result": {
+        "item": "minecraft:lever",
+        "count": 1
+    }
+}

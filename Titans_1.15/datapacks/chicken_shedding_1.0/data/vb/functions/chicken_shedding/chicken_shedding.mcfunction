@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:egg"}},y_rotation=0..36] at @s if entity @e[type=minecraft:chicken,distance=..1] run data merge entity @s {Item:{id:"minecraft:feather"}}

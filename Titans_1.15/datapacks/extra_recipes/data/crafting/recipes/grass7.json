@@ -1,0 +1,45 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bone_meal",
+            "item_h": "minecraft:bone_meal"
+        },
+        {
+            "item": "minecraft:dirt",
+            "item_h": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:dirt",
+            "item_h": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:water_bucket",
+            "item_h": "minecraft:water_bucket"
+        },
+        {
+            "item": "minecraft:dirt",
+            "item_h": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:dirt",
+            "item_h": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:dirt",
+            "item_h": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:dirt",
+            "item_h": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:dirt",
+            "item_h": "minecraft:dirt"
+        }
+    ],
+    "result": {
+        "item": "minecraft:grass_block",
+        "count": 7
+    }
+}

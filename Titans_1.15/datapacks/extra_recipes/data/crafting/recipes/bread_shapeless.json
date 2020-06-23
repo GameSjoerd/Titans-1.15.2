@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:wheat",
+            "item_h": "minecraft:wheat"
+        },
+        {
+            "item": "minecraft:wheat",
+            "item_h": "minecraft:wheat"
+        },
+        {
+            "item": "minecraft:wheat",
+            "item_h": "minecraft:wheat"
+        }
+    ],
+    "result": {
+        "item": "minecraft:bread",
+        "count": 1
+    }
+}

@@ -1,0 +1,5 @@
+execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_hoe"}}] at @s if block ~ ~0.1 ~ minecraft:wheat[age=7] run function vb:crop_harvesting/wheat
+execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_hoe"}}] at @s if block ~ ~0.1 ~ minecraft:beetroots[age=3] run function vb:crop_harvesting/beetroot
+execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_hoe"}}] at @s if block ~ ~0.1 ~ minecraft:potatoes[age=7] run setblock ~ ~0.1 ~ minecraft:potatoes[age=0] destroy
+execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_hoe"}}] at @s if block ~ ~0.1 ~ minecraft:carrots[age=7] run setblock ~ ~0.1 ~ minecraft:carrots[age=0] destroy
+execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_hoe"}}] at @s if block ~ ~0.2 ~ minecraft:nether_wart[age=3] run setblock ~ ~0.2 ~ minecraft:nether_wart[age=0] destroy

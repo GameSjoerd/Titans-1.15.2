@@ -1,0 +1,5 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{"item":"minecraft:elytra"}, {"item":"minecraft:phantom_membrane"}, {"item":"minecraft:phantom_membrane"}, {"item":"minecraft:phantom_membrane"}],
+    "result": {"item":"minecraft:elytra", "count":1}
+}

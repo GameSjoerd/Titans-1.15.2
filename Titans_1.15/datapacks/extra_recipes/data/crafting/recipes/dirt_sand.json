@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:dirt",
+        "item_h": "minecraft:dirt"
+    },
+    "result": "minecraft:sand",
+    "experience": 0,
+    "cookingtime": 25
+}

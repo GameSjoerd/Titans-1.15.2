@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:ice"
+        },
+        {
+            "item": "minecraft:cod"
+        },
+        {
+            "item": "minecraft:bucket"
+        }
+    ],
+    "result": {
+        "item": "minecraft:cod_bucket",
+        "count": 1
+    }
+}
